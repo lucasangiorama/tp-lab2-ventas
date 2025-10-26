@@ -1,0 +1,28 @@
+# Archivos compilados
+*.o
+*.out
+tp
+a.out
+
+# Directorios generados
+obj/
+bin/
+
+# Archivos de datos
+ventas.dat
+ventas.temp
+bajas_*.xyz
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Otros
+*.log
